@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 geojson-to-sqlite = "*"
 census-map-downloader = "*"
+numpy = "*"
 
 [dev-packages]
 
